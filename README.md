@@ -8,8 +8,20 @@
 #### Contact Me<br>
 - 📫 How to reach me: [ayeti0202@gmail.com](mailto:ayeti0202@gmail.com)<br>
 - 🔗 My website: [https://www.ayeti82.com/](https://www.ayeti82.com/)<br>
-#### Skills<br>
-<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<h4>Skills</h4><br>
+<span>
+  <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+  <img alt="Python"  width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+ </span><br>
+#### Interests <br>
+<!-- <span>
+</span>
+<br>
+#### Learning<br>
+<span>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+</span>
+<br> -->
 <!---
 - 👋 Hi, I’m @ayeti82
 - 👀 I’m interested in ...
