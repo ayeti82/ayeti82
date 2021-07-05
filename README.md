@@ -1,3 +1,5 @@
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/anonymous82)\
+Hi, I'm Ayeti
 <!---
 - 👋 Hi, I’m @ayeti82
 - 👀 I’m interested in ...
