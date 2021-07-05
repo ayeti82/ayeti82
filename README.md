@@ -1,6 +1,15 @@
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/anonymous82)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayetijhya-desmukhya-54a2b81b7/)
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="kitty" > Hello:yellow_heart:</h3>
+
+# Hello💜
+<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="kitty" width="200" height="200" align="right"><br>
+#### Social Media<br>
+<a href="https://www.linkedin.com/in/ayetijhya-desmukhya-54a2b81b7/"><img src="https://raw.githubusercontent.com/ayeti82/ayeti82/master/img/linkedin.svg" alt="linkedin"></a><br>
+#### Other Forums<br>
+<a href="https://www.hackerrank.com/anonymous82"><img src="https://raw.githubusercontent.com/ayeti82/ayeti82/master/img/hackerrank.svg" alt="hackerrank"></a><br>
+#### Contact Me<br>
+- 📫 How to reach me: [ayeti0202@gmail.com](mailto:ayeti0202@gmail.com)<br>
+- 🔗 My website: [https://www.ayeti82.com/](https://www.ayeti82.com/)<br>
+#### Skills<br>
+
 <!---
 - 👋 Hi, I’m @ayeti82
 - 👀 I’m interested in ...
