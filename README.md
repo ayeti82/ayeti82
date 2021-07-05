@@ -1,6 +1,6 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/anonymous82)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayetijhya-desmukhya-54a2b81b7/)\
-Hi, I'm Ayeti
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayetijhya-desmukhya-54a2b81b7/)
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="kitty" > Hello:yellow_heart:</h3>
 <!---
 - 👋 Hi, I’m @ayeti82
 - 👀 I’m interested in ...
